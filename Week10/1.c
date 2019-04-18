@@ -42,3 +42,11 @@ int main()
 		printf("%d ",arr[i]);
 	return 0;
 }
+/*
+
+Done: 4, 6, 8
+Skip: 3
+Skip: 1, 2, 5, 7
+
+
+*/
